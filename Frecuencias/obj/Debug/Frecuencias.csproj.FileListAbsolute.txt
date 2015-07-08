@@ -1,0 +1,11 @@
+c:\users\cesar\documents\visual studio 2013\Projects\Frecuencias\Frecuencias\bin\Debug\Frecuencias.exe.config
+c:\users\cesar\documents\visual studio 2013\Projects\Frecuencias\Frecuencias\bin\Debug\Frecuencias.exe
+c:\users\cesar\documents\visual studio 2013\Projects\Frecuencias\Frecuencias\bin\Debug\Frecuencias.pdb
+c:\users\cesar\documents\visual studio 2013\Projects\Frecuencias\Frecuencias\obj\Debug\Frecuencias.csprojResolveAssemblyReference.cache
+c:\users\cesar\documents\visual studio 2013\Projects\Frecuencias\Frecuencias\obj\Debug\Frecuencias.Form1.resources
+c:\users\cesar\documents\visual studio 2013\Projects\Frecuencias\Frecuencias\obj\Debug\Frecuencias.Properties.Resources.resources
+c:\users\cesar\documents\visual studio 2013\Projects\Frecuencias\Frecuencias\obj\Debug\Frecuencias.csproj.GenerateResource.Cache
+c:\users\cesar\documents\visual studio 2013\Projects\Frecuencias\Frecuencias\obj\Debug\Frecuencias.exe
+c:\users\cesar\documents\visual studio 2013\Projects\Frecuencias\Frecuencias\obj\Debug\Frecuencias.pdb
+C:\Users\Cesar\Documents\Visual Studio 2013\Projects\Frecuencias\Frecuencias\bin\Debug\GeneradorMultiplicativoMixto.exe
+C:\Users\Cesar\Documents\Visual Studio 2013\Projects\Frecuencias\Frecuencias\bin\Debug\GeneradorMultiplicativoMixto.pdb
